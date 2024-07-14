@@ -10,7 +10,7 @@ import os
 from sentence_transformers import SentenceTransformer
 import time
 from langchain.embeddings import HuggingFaceEmbeddings
-from HTMLtemplates import css
+# from HTMLtemplates import css
 
 def get_pdf_docs(pdfs):
     text= ""
@@ -56,7 +56,7 @@ def chat_groq(messages):
             response_content += chunk.choices[0].delta.content
     return response_content
 st.set_page_config(page_title='Chat with Multiple PDFs',page_icon=':books:')
-st.write(css, unsafe_allow_html=True)
+# st.write(css, unsafe_allow_html=True)
 
 def summarize_chat_history(chat_history):
     chat_history_text = " ".join([f"{chat['role']}: {chat['content']}" for chat in chat_history])
