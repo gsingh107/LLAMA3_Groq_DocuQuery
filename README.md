@@ -10,10 +10,14 @@ Users can interactively ask questions and receive relevant information extracted
 
 
 ## Features
-### Multi-PDF Support: Upload multiple PDF files at once and let the chatbot process them simultaneously.
-### Natural Language Queries: Ask questions in natural language and get precise answers from the documents.
-### Contextual Understanding: The chatbot retrieves information based on the context of the query, providing relevant responses.
-### User-Friendly Interface: Built with Streamlit for an intuitive and interactive user experience. 
+### Multi-PDF Support: 
+Upload multiple PDF files at once and let the chatbot process them simultaneously.
+### Natural Language Queries: 
+Ask questions in natural language and get precise answers from the documents.
+### Contextual Understanding: 
+The chatbot retrieves information based on the context of the query, providing relevant responses.
+### User-Friendly Interface: 
+Built with Streamlit for an intuitive and interactive user experience. 
 
 ## Installation
 
