@@ -8,7 +8,8 @@ The PDF Retrieval Chatbot is a powerful application designed to process multiple
 Utilizing advanced language models like **Llama 3 and integrating with GroqAPI**, this chatbot employs **Langchain** for efficient document retrieval techniques. 
 Users can interactively ask questions and receive relevant information extracted from uploaded PDFs, making it an essential tool for knowledge discovery.
 
-![image](https://github.com/user-attachments/assets/596a8b57-756b-4a6f-83b1-1a1f3629e7df)
+![image](https://github.com/user-attachments/assets/85737e32-c778-458f-9454-d5682bd47ade)
+
 
 
 ## Features
