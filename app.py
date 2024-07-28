@@ -10,7 +10,7 @@ import os
 from sentence_transformers import SentenceTransformer
 import time
 from langchain.embeddings import HuggingFaceEmbeddings
-from HTMLtemplates import css
+
 import gc
 
 def get_pdf_docs(pdfs):
